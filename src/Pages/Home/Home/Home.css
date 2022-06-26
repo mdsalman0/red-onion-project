@@ -1,0 +1,38 @@
+.banner{
+    position: relative;
+}
+.text-name{
+    position: absolute;
+    top: 40%;
+    left: 33%;
+}
+.input{
+    position: absolute;
+    top: 50%;
+    left: 37%;
+    width: 25%;
+    border: none;
+    border-radius: 25px;
+    height: 2.5rem;
+    padding: 0px 10px;
+}
+.banner img{
+    width: 100%;
+}
+.search{
+    display: block;
+    margin: auto;
+    width: 25%;
+    text-align: center;
+    border-radius: 30px;
+    font-size: 20px;
+    border: none;
+    padding: 10px;
+    position: absolute;
+    bottom: 260px;
+    left: 483px;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}

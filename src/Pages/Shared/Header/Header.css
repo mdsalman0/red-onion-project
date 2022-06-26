@@ -1,0 +1,21 @@
+.nav-container{
+    position: sticky;
+    top: 0;
+}
+.title{
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+}
+.title:hover{
+    color: aliceblue;
+}
+.nav-con{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-link a{
+    text-decoration: none;
+    color: aliceblue;
+    margin-right: 10px;
+}

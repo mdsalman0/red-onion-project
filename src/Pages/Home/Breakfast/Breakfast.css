@@ -1,0 +1,12 @@
+.breakfast-info{
+    width: 330px;
+    margin: 20px 0px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: rgba(217, 214, 214, 0.772) 0px 7px 10px 5px;
+}
+.title-name{
+    display: grid;
+    justify-content: center;
+    line-height: 15px;
+}
